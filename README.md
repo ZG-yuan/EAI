@@ -1,0 +1,2 @@
+# EAI
+Embedded artificial intelligence
